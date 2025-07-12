@@ -18,7 +18,7 @@
 | Proyecto                   | Descripción                                    | Enlace                    |
 | -------------------------- | ---------------------------------------------- | ------------------------- |
 | **Botnet Segura (TFG)** | Desarrollé un prototipo de Botnet en un entorno aislado, integrando módulos de mando y control (C&C), ejecución remota de comandos y simulación de ataques DDoS, con el objetivo de evaluar y contrastar técnicas de detección y mitigación de mi Trabajo de Fin de Grado. | [Repo](https://github.com/Borde00/Proyecto_Botnet) |
-| **IDS (TFG)** | Implementé este sistema de detección de intrusiones para analizar y caracterizar el comportamiento de los ataques de la Botnet en un entorno controlado. | [Repo]() |
+| **IDS (TFG)** | Implementé este sistema de detección de intrusiones para analizar y caracterizar el comportamiento de los ataques de la Botnet en un entorno controlado. | [Repo](https://github.com/Borde00/Proyecto_IDS/tree/main) |
 
 ---
 
