@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy **Borde**
-**Junior SysAdmin & Técnico Ciberseguridad**
+**Administrador de Sistemas Informáticos en Red |  Especializado en Ciberseguridad Junior**
 
 ---
 
