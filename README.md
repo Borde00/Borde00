@@ -10,7 +10,6 @@
 - **Matriculado:** Máster en Ciberseguridad en Entornos de las Tecnologías de la Información
 - 🔭 Actualmente:
   - Realizando laboratorios en **Hack The Box**
-  - Aprendiendo **Cloud Computing AWS**
 
 ---
 
