@@ -7,7 +7,7 @@
 - 🌍 Ubicación: Madrid, España
 - 🎓 Formación:
 - Administración de Sistemas Informáticos en Red
-- **Próximamente:** Máster en Ciberseguridad en Entornos de las Tecnologías de la Información
+- **Matriculado:** Máster en Ciberseguridad en Entornos de las Tecnologías de la Información
 - 🔭 Actualmente:
   - Realizando laboratorios en **Hack The Box**
 
