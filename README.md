@@ -12,13 +12,13 @@
 
 ---
 
-## 👤 Sobre Mí
+## Sobre Mí
 
 Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lados. Actualmente estudiando Cloud Computing de forma autónoma.
 
 ---
 
-## 🛠 Stack Tecnológico
+## Stack Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql,kali&theme=dark" />
@@ -31,7 +31,7 @@ Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lad
 
 ---
 
-## 🚀 Proyectos
+## Proyectos
 
 | Proyecto | Descripción |
 |----------|-------------|
@@ -47,12 +47,11 @@ Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lad
 
 ---
 
-## 📬 Contacto
+## Contacto
 
-- **Web:** [yourportfolio.dev](https://yourportfolio.dev)
-- **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
-- **Email:** [your@email.com](mailto:your@email.com)
-- **GitHub:** [@yourusername](https://github.com/yourusername)
+- **Web:** soon
+- **LinkedIn:** [@yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/adelin-florian-bordeianu/?skipRedirect=true))
+- **Email:** [your@email.com](mailto:bordeianuadelin@gmail.com)
 
 ---
 
