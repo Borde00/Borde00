@@ -36,27 +36,19 @@ Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lad
 </p>
 
 ---
----
 
 ## 🚀 Proyectos
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Proyecto_Botnet](https://github.com/Borde00/Proyecto_Botnet) | Botnet educativa con servidor C2 y cliente. Orquesta bots, ejecuta ataques (hydra, slowloris, hping3, nmap) y recopila resultados. | `Python` `Red Team` |
-| [Proyecto_IDS](https://github.com/Borde00/Proyecto_IDS) | IDS en tiempo real con alertas Discord. Detecta SYN Flood, port scanning, intentos SSH y ataques HTTP. | `Python` `Blue Team` |
-| [ToolKitLW](https://github.com/Borde00/ToolKitLW) | Hardening multiplataforma (Linux & Windows). 4 módulos: usuarios, red, auditoría y servicios. | `Python` `Hardening` |
-| [CredLeakMonitor](https://github.com/Borde00/CredLeakMonitor) | Bot de Discord que verifica credenciales contra 7 bases de filtraciones en tiempo real. k-Anonymity para contraseñas. | `Python` `Discord` |
-| [TakeOver-Ds-Bot](https://github.com/Borde00/TakeOver-Ds-Bot) | Detección automática de subdomain takeovers. Wrapper sobre takeovflow con slash commands y barra de progreso. | `Python` `Go` |
+| Proyecto | Descripción |
+|----------|-------------|
+| [Proyecto_Botnet](https://github.com/Borde00/Proyecto_Botnet) | Botnet educativa con servidor C2 y cliente. Orquesta bots, ejecuta ataques (hydra, slowloris, hping3, nmap) y recopila resultados. |
+| [Proyecto_IDS](https://github.com/Borde00/Proyecto_IDS) | IDS en tiempo real con alertas Discord. Detecta SYN Flood, port scanning, intentos SSH y ataques HTTP. |
+| [ToolKitLW](https://github.com/Borde00/ToolKitLW) | Hardening multiplataforma (Linux & Windows). 4 módulos: usuarios, red, auditoría y servicios. |
+| [CredLeakMonitor](https://github.com/Borde00/CredLeakMonitor) | Bot de Discord que verifica credenciales contra 7 bases de filtraciones en tiempo real. k-Anonymity para contraseñas. |
+| [TakeOver-Ds-Bot](https://github.com/Borde00/TakeOver-Ds-Bot) | Detección automática de subdomain takeovers. Wrapper sobre takeovflow con slash commands y barra de progreso. |
 
 <p align="center">
   <a href="https://github.com/Borde00?tab=repositories">Ver todos los repositorios →</a>
-</p>
----
-
-<p align="center">
-  <a href="https://github.com/Borde00?tab=repositories">
-    <img src="https://img.shields.io/badge/📂%20Ver%20todos%20mis%20repositorios-00FF41?style=for-the-badge&labelColor=0d1117"/>
-  </a>
 </p>
 
 ---
