@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Purple+Team+%7C+Entiendo+por+qu%C3%A9+Atacan+para+Defender+mejor;Ofensiva+%2B+Defensiva+%3D+Visi%C3%B3n+Real;Aprendizaje+Continuo+%7C+Curiosidad+sin+Techo;Habilidad+sin+%C3%89tica+es+Solo+Poder%3A+No+Abuso+de+la+Confianza;Rompo+Sistemas+con+Permiso%2C+Protejo+Datos+con+Convicci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ofensiva+%2B+Defensiva+%3D+Claridad;Aprendizaje+Continuo;Abuso+de+Confianza%3A+No+Romper" alt="Typing SVG" />
   </a>
 </p>
 
