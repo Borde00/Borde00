@@ -16,20 +16,6 @@
   <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
 </p>
 
-<p align="center">
-  <a href="https://yourportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=00FF41"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-</p>
 
 ---
 
@@ -112,20 +98,14 @@ current_focus:
 
 ---
 
-## 📬 Let's Connect
+##Let's Connect
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:bordeianaudelin@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/adelin-florian-bordeianu/">
     <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=00FF41"/>
   </a>
 </p>
 
@@ -133,10 +113,6 @@ current_focus:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-%22The%20most%20dangerous%20person%20in%20security%20is%20not%20the%20one%20who%20knows%20how%20to%20attack%20%E2%80%94%20it%20is%20the%20one%20who%20understands%20why.%22-0d0d0d?style=flat-square&logoColor=00FF41"/>
-</p>
-
-<p align="center">
-  <i style="color:#00FF41">"The most dangerous person in security is not the one who knows how to attack — it is the one who understands why."</i>
 </p>
 
 <p align="center">
