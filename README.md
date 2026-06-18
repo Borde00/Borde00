@@ -99,7 +99,6 @@ current_focus:
 
 ## 📬 Contact
 
-- **Web:** [yourportfolio.dev](https://yourportfolio.dev)
 - **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
 - **Email:** [your@email.com](mailto:your@email.com)
 - **GitHub:** [@yourusername](https://github.com/yourusername)
