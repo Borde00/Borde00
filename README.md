@@ -102,7 +102,7 @@ enfoque_actual:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 - **Web:** [yourportfolio.dev](https://yourportfolio.dev)
 - **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
