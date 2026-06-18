@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0d1117,00FF41,0d1117,0d1117&height=200&section=header&text=Borde00&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&font=JetBrains+Mono" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0d1117,00FF41,0d1117,0d1117&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 </p>
+
+<h1 align="center" style="font-family: monospace; color: #ffffff; font-size: 48px; margin: 0; padding: 10px 0;">Borde00</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
