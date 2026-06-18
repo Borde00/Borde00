@@ -18,7 +18,7 @@
 
 ---
 
-## 👤 Sobre Mí
+## Sobre Mí
 
 ```yaml
 perfil:
@@ -59,7 +59,7 @@ perfil:
 
 ---
 
-## 🔐 Intereses en Ciberseguridad
+## Intereses en Ciberseguridad
 
 <div align="center">
 
@@ -76,7 +76,7 @@ perfil:
 
 ---
 
-## 🎯 Enfoque Actual
+## Enfoque Actual
 
 ```yaml
 enfoque_actual:
