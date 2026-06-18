@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante%20de%20Inform%C3%A1tica-En%20Progreso-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Especialidad%20Ciberseguridad-Activo-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Madrid%2C%20Espa%C3%B1a-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
 </p>
