@@ -18,7 +18,7 @@
 
 ---
 
-## Sobre Mí
+## 👤 Sobre Mí
 
 ```yaml
 perfil:
@@ -46,10 +46,10 @@ perfil:
 
 ---
 
-## Stack Tech
+## 🛠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql,kalilinux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql,kali&theme=dark" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ perfil:
 
 ---
 
-## Intereses en Ciberseguridad
+## 🔐 Intereses en Ciberseguridad
 
 <div align="center">
 
@@ -76,7 +76,7 @@ perfil:
 
 ---
 
-## Enfoque Actual
+## 🎯 Enfoque Actual
 
 ```yaml
 enfoque_actual:
@@ -102,7 +102,7 @@ enfoque_actual:
 
 ---
 
-## Contacto
+## 📬 Contacto
 
 - **Web:** [yourportfolio.dev](https://yourportfolio.dev)
 - **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
