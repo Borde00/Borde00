@@ -10,13 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓%20Estudiante-En%20Progreso-00FF41?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🔒%20Ciberseguridad-Activo-00FF41?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20Computing-Autodidacta-00FF41?style=flat-square&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📍%20Madrid%2C%20España-00FF41?style=flat-square&labelColor=0d1117"/>
-</p>
-
 ---
 
 ## 👤 Sobre Mí
