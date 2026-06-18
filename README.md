@@ -20,7 +20,7 @@
 
 ## 👤 Sobre Mí
 
-Trabajo en seguridad ofensiva, investigación de vulnerabilidades, bug bounty, desarrollo de herramientas y formación técnica. Mi enfoque es práctico: encontrar problemas reales, entender sus causas raíz, construir flujos de trabajo útiles y explicar con claridad.
+Purple Team: combino seguridad ofensiva y defensiva para entender los ataques desde ambos lados. He operado en SOC con FortiSIEM y FortiGate, realizado pentesting en red y web, y desarrollado herramientas propias como IDS en tiempo real y ecosistemas forenses. Actualmente estudiando Cloud Computing de forma autónoma.
 
 ---
 
