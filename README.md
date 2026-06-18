@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0,0a0a0a&height=200&section=header&text=&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0d1117,00FF41,0d1117,0d1117&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
@@ -138,5 +138,5 @@ current_focus:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0,0a0a0a&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0d1117,00FF41,0d1117,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
