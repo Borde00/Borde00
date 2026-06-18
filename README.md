@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Entusiasta+de+Ciberseguridad+%7C+Mentalidad+Purple+Team;Romper+Responsablemente+para+Entender+los+Sistemas;Construir+Defensas+para+Proteger+lo+que+Importa;Ofensiva+%2B+Defensiva+%3D+Claridad+en+Seguridad;Aprendizaje+Continuo+%7C+Pensamiento+Security-First" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ofensiva+%2B+Defensiva+%3D+Claridad;Abusar+de+la+Confianza" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,29 +20,7 @@
 
 ## 👤 Sobre Mí
 
-```yaml
-perfil:
-  rol: Aspirante a Ingeniero de Ciberseguridad — Purple Team
-  mentalidad: Seguridad Primero | Impulsado por la Curiosidad | Aprendizaje Continuo
-  enfoque:
-    ofensivo: "Romper responsablemente para entender cómo funcionan realmente los sistemas"
-    defensivo: "Construir defensas sólidas basadas en conocimiento real de ataques"
-    filosofia: "Ver ambos lados es lo que hace que la seguridad tenga sentido"
-  fundamentos:
-    - Fundamentos de desarrollo de software aplicados al pensamiento de seguridad
-    - Comprensión básica de redes y protocolos
-    - Entornos Linux como base diaria de aprendizaje
-    - Scripting en Python para automatización y análisis
-  actualmente:
-    - Construyendo un laboratorio personal para práctica hands-on
-    - Estudiando para CompTIA Security+
-    - Explorando rutas de aprendizaje en TryHackMe
-  abierto_a:
-    - Roles junior de Analista SOC
-    - Prácticas en seguridad ofensiva o defensiva
-    - Mentorías de profesionales con experiencia
-    - Grupos de estudio colaborativo
-```
+Trabajo en seguridad ofensiva, investigación de vulnerabilidades, bug bounty, desarrollo de herramientas y formación técnica. Mi enfoque es práctico: encontrar problemas reales, entender sus causas raíz, construir flujos de trabajo útiles y explicar con claridad.
 
 ---
 
@@ -56,49 +34,6 @@ perfil:
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
 </p>
-
----
-
-## 🔐 Intereses en Ciberseguridad
-
-<div align="center">
-
-| Dominio | Estado | Detalles |
-|---------|--------|----------|
-| **Seguridad Ofensiva** | `Explorando` | Fundamentos de enumeración, OWASP Top 10, CTF para principiantes |
-| **Seguridad Defensiva** | `Aprendiendo` | Análisis de logs, fundamentos de respuesta a incidentes, hardening básico |
-| **Seguridad en la Nube** | `Curioso` | Modelo de responsabilidad compartida AWS, IAM básico, seguridad en almacenamiento |
-| **Seguridad de Redes** | `Explorando` | Fundamentos TCP/IP, análisis de tráfico con Wireshark, bases de firewall |
-| **Scripting para Seguridad** | `Aprendiendo` | Scripts Python para automatización de tareas, parseo de ficheros y reportes |
-| **Pensamiento Purple Team** | `Interesado` | Cómo el conocimiento ofensivo fortalece la estrategia defensiva |
-
-</div>
-
----
-
-## 🎯 Enfoque Actual
-
-```yaml
-enfoque_actual:
-  aprendiendo:
-    - Fundamentos ofensivos: enumeración, conceptos básicos de explotación, OWASP Top 10
-    - Estrategias defensivas: análisis de logs, fundamentos de respuesta a incidentes, hardening
-    - Seguridad en la nube: AWS IAM, seguridad en S3, modelo de responsabilidad compartida
-  construyendo:
-    - Laboratorio personal con escenarios realistas de ataque y defensa
-    - Documentación de estudio de seguridad y write-ups de CTF para principiantes
-    - Scripts utilitarios en Python para parseo de logs y automatización
-  explorando:
-    - Conceptos Purple Team: cómo la visión ofensiva mejora la postura defensiva
-    - Análisis básico de tráfico de red con Wireshark
-    - Fundamentos de seguridad en contenedores con Docker
-  abierto_a:
-    - Posiciones junior de Analista SOC
-    - Prácticas en seguridad (ofensiva o defensiva)
-    - Mentorías de profesionales con experiencia en seguridad
-    - Grupos de estudio colaborativo e intercambio de conocimiento
-    - Primeras oportunidades profesionales bajo supervisión estructurada
-```
 
 ---
 
