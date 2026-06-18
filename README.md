@@ -50,7 +50,7 @@ Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lad
 ## Contacto
 
 - **Web:** soon
-- **LinkedIn:** [@Adelin]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/adelin-florian-bordeianu/?skipRedirect=true))
+- **LinkedIn:** [@Adelin](https://www.linkedin.com/in/adelin-florian-bordeianu/?skipRedirect=true)
 - **Email:** [bordeianuadelin@gmail.com](mailto:bordeianuadelin@gmail.com)
 
 ---
