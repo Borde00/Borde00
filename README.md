@@ -52,6 +52,12 @@ profile:
   <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
 ---
 
 ## 🔐 Cybersecurity Interests
@@ -99,6 +105,7 @@ current_focus:
 
 ## 📬 Contact
 
+- **Web:** [yourportfolio.dev](https://yourportfolio.dev)
 - **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
 - **Email:** [your@email.com](mailto:your@email.com)
 - **GitHub:** [@yourusername](https://github.com/yourusername)
