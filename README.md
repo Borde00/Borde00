@@ -20,7 +20,7 @@
 
 ## 👤 Sobre Mí
 
-Purple Team: combino seguridad ofensiva y defensiva para entender los ataques desde ambos lados. He operado en SOC con FortiSIEM y FortiGate, realizado pentesting en red y web, y desarrollado herramientas propias como IDS en tiempo real y ecosistemas forenses. Actualmente estudiando Cloud Computing de forma autónoma.
+Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lados. Actualmente estudiando Cloud Computing de forma autónoma.
 
 ---
 
