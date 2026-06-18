@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Entusiasta+de+Ciberseguridad+%7C+Mentalidad+Purple+Team;Romper+Responsablemente+para+Entender+los+Sistemas;Construir+Defensas+para+Proteger+lo+que+Importa;Ofensiva+%2B+Defensiva+%3D+Claridad+en+Seguridad;Aprendizaje+Continuo+%7C+Pensamiento+Security-First" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Purple+Team+%7C+Entiendo+por+qu%C3%A9+Atacan+para+Defender+mejor;Ofensiva+%2B+Defensiva+%3D+Visi%C3%B3n+Real;Aprendizaje+Continuo+%7C+Curiosidad+sin+Techo;Habilidad+sin+%C3%89tica+es+Solo+Poder%3A+No+Abuso+de+la+Confianza;Rompo+Sistemas+con+Permiso%2C+Protejo+Datos+con+Convicci%C3%B3n" alt="Typing SVG" />
   </a>
 </p>
 
@@ -112,7 +112,7 @@ enfoque_actual:
 ---
 
 <p align="center">
-  <i>"La persona más peligrosa en seguridad no es la que sabe atacar — es la que entiende por qué."</i>
+  <i>"La persona más peligrosa en seguridad no es la que sabe atacar — es la que entiende por qué lo hacen."</i>
 </p>
 
 <p align="center">
