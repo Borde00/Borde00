@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0,0a0a0a&height=200&section=header&text=&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%7C+Purple+Team+Mindset;Breaking+Responsibly+to+Understand+Systems;Building+Defenses+to+Protect+What+Matters;Offensive+%2B+Defensive+%3D+Security+Clarity;Continuous+Learner+%7C+Security-First+Thinker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%7C+Purple+Team+Mindset;Breaking+Responsibly+to+Understand+Systems;Building+Defenses+to+Protect+What+Matters;Offensive+%2B+Defensive+%3D+Security+Clarity;Continuous+Learner+%7C+Security-First+Thinker" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Student-In%20Progress-555555?style=flat-square&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity%20Track-Active-333333?style=flat-square&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-666666?style=flat-square&logo=map-pin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-In%20Progress-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Cybersecurity%20Track-Active-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
+  <img src="https://img.shields.io/badge/Location-Madrid%2C%20Spain-ffffff?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=00FF41"/>
 </p>
 
 <p align="center">
   <a href="https://yourportfolio.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=00FF41"/>
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-444444?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
   <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-666666?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
   <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41"/>
   </a>
 </p>
 
@@ -114,25 +114,29 @@ current_focus:
 
 <p align="center">
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
   </a>
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-444444?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41"/>
   </a>
   <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=00FF41"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"The most dangerous person in security is not the one who knows how to attack — it is the one who understands why."</i>
+  <img src="https://img.shields.io/badge/-%22The%20most%20dangerous%20person%20in%20security%20is%20not%20the%20one%20who%20knows%20how%20to%20attack%20%E2%80%94%20it%20is%20the%20one%20who%20understands%20why.%22-0d0d0d?style=flat-square&logoColor=00FF41"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <i style="color:#00FF41">"The most dangerous person in security is not the one who knows how to attack — it is the one who understands why."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,0,0a0a0a&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
