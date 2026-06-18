@@ -116,5 +116,9 @@ current_focus:
 </p>
 
 <p align="center">
+  <i style="color:#00FF41">"The most dangerous person in security is not the one who knows how to attack — it is the one who understands why."</i>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,0d1117,00FF41,0d1117,0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
