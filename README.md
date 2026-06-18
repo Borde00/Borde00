@@ -36,109 +36,21 @@ Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lad
 </p>
 
 ---
+---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Proyecto_Botnet</h3>
-      <p align="center">
-        <a href="https://github.com/Borde00/Proyecto_Botnet">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Red%20Team-FF0000?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <b>Botnet Educativa con C2 en Python</b><br>
-        Servidor C2 + Cliente infectado. Orquesta bots, ejecuta ataques (hydra, slowloris, hping3, nmap) y recopila resultados.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Borde00/Proyecto_Botnet">
-          <img src="https://img.shields.io/badge/Ver%20Repo-00FF41?style=for-the-badge&labelColor=0d1117"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Proyecto_IDS</h3>
-      <p align="center">
-        <a href="https://github.com/Borde00/Proyecto_IDS">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Blue%20Team-0000FF?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <b>IDS en Tiempo Real con Alertas Discord</b><br>
-        Detecta SYN Flood, port scanning, intentos SSH y ataques HTTP. Envía alertas vía webhook a Discord.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Borde00/Proyecto_IDS">
-          <img src="https://img.shields.io/badge/Ver%20Repo-00FF41?style=for-the-badge&labelColor=0d1117"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔧 ToolKitLW</h3>
-      <p align="center">
-        <a href="https://github.com/Borde00/ToolKitLW">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Hardening-FF8C00?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <b>Hardening Multiplataforma (Linux & Windows)</b><br>
-        Detecta SO automáticamente, aplica 4 módulos de bastionado (usuarios, red, auditoría, servicios) con backup y reportes.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Borde00/ToolKitLW">
-          <img src="https://img.shields.io/badge/Ver%20Repo-00FF41?style=for-the-badge&labelColor=0d1117"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 CredLeakMonitor</h3>
-      <p align="center">
-        <a href="https://github.com/Borde00/CredLeakMonitor">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">
-        <b>Bot de Discord — Detección de Credenciales Filtradas</b><br>
-        Consulta 7 APIs (HIBP, XposedOrNot, LeakCheck...) en paralelo. k-Anonymity para contraseñas. Informes ejecutivos con nivel de riesgo.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Borde00/CredLeakMonitor">
-          <img src="https://img.shields.io/badge/Ver%20Repo-00FF41?style=for-the-badge&labelColor=0d1117"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3 align="center">🎯 TakeOver-Ds-Bot</h3>
-      <p align="center">
-        <a href="https://github.com/Borde00/TakeOver-Ds-Bot">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Subdomain%20Takeover-FF00FF?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <b>Bot de Discord — Detección Automática de Subdomain Takeovers</b><br>
-        Wrapper sobre takeovflow con slash commands, barra de progreso en tiempo real e historial de escaneos. Integra subfinder, dnsx, httpx, nuclei.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Borde00/TakeOver-Ds-Bot">
-          <img src="https://img.shields.io/badge/Ver%20Repo-00FF41?style=for-the-badge&labelColor=0d1117"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [Proyecto_Botnet](https://github.com/Borde00/Proyecto_Botnet) | Botnet educativa con servidor C2 y cliente. Orquesta bots, ejecuta ataques (hydra, slowloris, hping3, nmap) y recopila resultados. | `Python` `Red Team` |
+| [Proyecto_IDS](https://github.com/Borde00/Proyecto_IDS) | IDS en tiempo real con alertas Discord. Detecta SYN Flood, port scanning, intentos SSH y ataques HTTP. | `Python` `Blue Team` |
+| [ToolKitLW](https://github.com/Borde00/ToolKitLW) | Hardening multiplataforma (Linux & Windows). 4 módulos: usuarios, red, auditoría y servicios. | `Python` `Hardening` |
+| [CredLeakMonitor](https://github.com/Borde00/CredLeakMonitor) | Bot de Discord que verifica credenciales contra 7 bases de filtraciones en tiempo real. k-Anonymity para contraseñas. | `Python` `Discord` |
+| [TakeOver-Ds-Bot](https://github.com/Borde00/TakeOver-Ds-Bot) | Detección automática de subdomain takeovers. Wrapper sobre takeovflow con slash commands y barra de progreso. | `Python` `Go` |
 
+<p align="center">
+  <a href="https://github.com/Borde00?tab=repositories">Ver todos los repositorios →</a>
+</p>
 ---
 
 <p align="center">
