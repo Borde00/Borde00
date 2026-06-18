@@ -97,22 +97,12 @@ current_focus:
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/GMAIL-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41"/>
-  </a>
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=firefox-browser&logoColor=00FF41"/>
-  </a>
-</p>
+- **Web:** [yourportfolio.dev](https://yourportfolio.dev)
+- **LinkedIn:** [@yourusername](https://linkedin.com/in/yourusername)
+- **Email:** [your@email.com](mailto:your@email.com)
+- **GitHub:** [@yourusername](https://github.com/yourusername)
 
 ---
 
