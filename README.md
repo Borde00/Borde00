@@ -46,7 +46,7 @@ perfil:
 
 ---
 
-## 🛠 Stack Tecnológico
+## Stack Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql,kalilinux&theme=dark" />
