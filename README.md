@@ -3,7 +3,12 @@
 </p>
 
 <h1 align="center">Adelin Florian Bordeianu</h1>
-<p align="center">Técnico de Ciberseguridad Junior · Blue Team & Red Team</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ciberseguridad;Blue+Team+%2B+Red+Team" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adelin-florian-bordeianu/?skipRedirect=true">
