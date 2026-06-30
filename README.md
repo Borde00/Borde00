@@ -19,6 +19,14 @@
   </a>
 </p>
 
+---
+
+### Sobre mí
+
+Combino seguridad ofensiva y defensiva para entender los ataques desde ambos lados. Experiencia en entornos SOC con Fortinet y Cisco, y desarrollo de herramientas propias de pentesting, forense digital y bastionado. Actualmente ampliando conocimientos en Cloud Computing.
+
+---
+
 ### Stack
 
 <p align="center">
