@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header" width="100%"/>
 </p>
 
-<h1 align="center">Adelin Florian Bordeianu</h1>
+<h1 align="center">Borde00</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
